@@ -1,7 +1,7 @@
 ## 👨‍🎓 About Me
 
 ---
-A software engineer who learns new things to become a master. I write interesting projects in Java 📚.
+A **software engineer** who learns new things to become a master. I write interesting projects in **Java** 📚.
 
 - I have a degree in [**software development**](https://kpfu.ru/) <a href="https://kpfu.ru/"><img width=18 src="https://kpfu.ru/docs/F81942084654/img656916153.jpg"></a>.
 - I have completed my studies at the [**Sber University**](https://sberuniversity.ru/) <a href="https://sberuniversity.ru/"><img width=18 src="https://www.nstu.ru/pic/news/NSTU_MAIN_1655272395.png"></a>.
